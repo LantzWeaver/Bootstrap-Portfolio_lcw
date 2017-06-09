@@ -1,93 +1,7 @@
 .body{
-	background-image: url(https://raw.githubusercontent.com/LantzWeaver/BasicPortfolio_LCW/master/assets/images/gray_background.jpg);
-	margin: 0px;
+	background-image: url(https://raw.githubusercontent.com/LantzWeaver/Bootstrap-Portfolio_lcw/master/assets/images/gray_background.jpg);
+    margin: 0px; 
 	padding: 0px;
-}
-
-.navbar navbar-default{
-    color: black;
-}
-
-.header{
-	background: white;
-    width: 100%;
-    margin: 0px;
-    padding: 15px;
-    border-style: solid;
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    border-width: thin;
-    border-bottom-color: #dedada;
-}
-
-#name{
-    background-color: #109e9e;
-    color: white;
-    text-align: center;
-    margin-top: auto;
-    margin-right: 580px;
-    margin-bottom: inherit;
-    margin-left: 100px;
-    display: inline;
-    padding: inherit;
-}
-
-#tab1{
-    display: inline;
-	size: 12px;
-	color: gray;
-	font-family: sans-serif;
-	border-style: none;
-    border-top: none;
-    border-bottom-color: none;
-    border-left: none;
-    border-right: none;
-}
-
-#tab2{
-    display: inline;
-    size: 12px;
-    color: gray;
-    font-family: sans-serif;
-    border-style: none;
-    border-top: none;
-    border-bottom-color: none;
-    border-left: none;
-    border-right: none;
-}
-
-#tab3{
-    display: inline;
-    size: 12px;
-    color: gray;
-    font-family: sans-serif;
-    border-style: none;
-    border-top: none;
-    border-bottom-color: none;
-    border-left: none;
-    border-right: none;
-}
-
-a:link {
-	color: gray;
-    text-decoration: none;
-}
-
-a:visited {
-	color: gray;
-    text-decoration: none;
-}
-
-a:hover {
-	color: gray;
-    text-decoration: none;
-}
-
-
-a:active {
-	color: gray;
-    text-decoration: none;
 }
 
 .head3{
@@ -217,7 +131,7 @@ a:active {
     padding-bottom: 10px;
     padding-left: 250px;
     border-style: solid;
-    border-color: #dedada;
+    border-color: #808080;
     border-width: thin;
 
 }
